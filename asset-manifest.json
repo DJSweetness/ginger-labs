@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ginger-labs/static/css/main.55432cc1.chunk.css",
+    "main.js": "/ginger-labs/static/js/main.ed3bfc0c.chunk.js",
+    "main.js.map": "/ginger-labs/static/js/main.ed3bfc0c.chunk.js.map",
+    "runtime-main.js": "/ginger-labs/static/js/runtime-main.7b9ca4be.js",
+    "runtime-main.js.map": "/ginger-labs/static/js/runtime-main.7b9ca4be.js.map",
+    "static/js/2.28d85b14.chunk.js": "/ginger-labs/static/js/2.28d85b14.chunk.js",
+    "static/js/2.28d85b14.chunk.js.map": "/ginger-labs/static/js/2.28d85b14.chunk.js.map",
+    "static/js/3.569683f7.chunk.js": "/ginger-labs/static/js/3.569683f7.chunk.js",
+    "static/js/3.569683f7.chunk.js.map": "/ginger-labs/static/js/3.569683f7.chunk.js.map",
+    "index.html": "/ginger-labs/index.html",
+    "static/css/main.55432cc1.chunk.css.map": "/ginger-labs/static/css/main.55432cc1.chunk.css.map",
+    "static/js/2.28d85b14.chunk.js.LICENSE.txt": "/ginger-labs/static/js/2.28d85b14.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7b9ca4be.js",
+    "static/js/2.28d85b14.chunk.js",
+    "static/css/main.55432cc1.chunk.css",
+    "static/js/main.ed3bfc0c.chunk.js"
+  ]
+}
